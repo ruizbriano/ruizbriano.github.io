@@ -1,10 +1,24 @@
 body {
   font-family: 'arial', arial, sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   background-image: url(linedpaper.png);
   background-repeat: repeat;
+  color: black;
 }
 #wrapper {
   width: 960px;
   margin: 20px auto 20px auto;
+}
+  h1{
+    color: red;
+    font-size: 96px
+  }
+  #summary{
+    color: green;
+  }
+  .bla {
+    color: gold;
+  }
+img {
+  width: 60%
 }
